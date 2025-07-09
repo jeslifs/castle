@@ -1,4 +1,4 @@
-# My Small Castle - Three.js Journey Challenge
+# Castle - Three.js Journey Challenge
 ![screenshort-for-post]()
 
 🔥 **Live: [my-small-castle.vercel.app](https://my-small-castle.vercel.app/)**
