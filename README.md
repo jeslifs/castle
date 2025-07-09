@@ -1,5 +1,5 @@
 # Castle - Three.js Journey Challenge
-![screenshort-for-post]()
+![screenshort-for-post](https://github.com/jeslifs/castle/blob/main/static/textures/castleNight.jpg)
 
 🔥 **Live: [my-small-castle.vercel.app](https://my-small-castle.vercel.app/)**
 
